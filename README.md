@@ -25,3 +25,4 @@ The full dataset is not included because it exceeds GitHub’s file size limit.
 ### How to get the dataset
 1. Open the link above and download the dataset from Kaggle.
 2. Unzip the file.
+3. Upload on the prototype
